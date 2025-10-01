@@ -31,7 +31,7 @@ function draw() {
   rect(width/4, shapeHeight, width/2);
   textSize(20);
   fill("black");
-  text('Hi! My name is Katelyn Mei', currentWidth/2, shapeHeight/2);
+  text('Hello! My name is Minkyu Kim!', currentWidth/2, shapeHeight/2);
   
 
 
