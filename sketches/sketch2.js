@@ -9,9 +9,15 @@ registerSketch('sk2', function (p) {
   p.draw = function () {
     p.background(239, 252, 252);
     p.clock();
+
+    const R = p.min(p.width, p.height) * 0.36;
   };
 
   p.clock = function() {  
+    let min = p.minute();
+    let sec = p.second();
+    let awagga = p.millis();
+
     p.fill(245, 245, 245);
     p.ellipse(p.width/2, p.height/2, 550, 550);
     p.fill(255, 235, 125);
@@ -23,7 +29,13 @@ registerSketch('sk2', function (p) {
     p.line(p.width/2, p.height/2, p.width/2 + 220, p.height/2 + 165);
     p.line(p.width/2, p.height/2, p.width/2 + 220, p.height/2 - 165);
 
-    labelButton("Start", "Stop");
+
+    let totalsecs = Math.floor(600 - (awagga / 1000));
+    let secs = totalsecs % 60;
+    let mins = Math.floor(totalsecs / 60);
+    p.textAlign(p.CENTER);
+    p.textSize(30);
+    p.text(mins + " : " + secs , p.width/2, p.height/2 + 350);
   }
   
   p.windowResized = function () { p.resizeCanvas(p.windowWidth, p.windowHeight); };
