@@ -24,39 +24,46 @@ registerSketch('sk2', function (p) {
     // Drawing the Clock Face
     p.fill(245, 245, 245);
     p.ellipse(0, 0, 550, 550);
+
+    p.fill("darkgrey");
+    p.arc(0, 0, 550, 550, -90, -30);
+    p.fill("lightgrey");
+    p.arc(0, 0, 550, 550, -30, 30);
+    p.fill("white");
+    p.arc(0, 0, 550, 550, 30, 90);
     p.fill(255, 235, 125);
     p.ellipse(0, 0, 200, 200);
     
     // Drawing the Clock Face Boundaries
     p.stroke("black");
-    p.strokeWeight(2);
-    p.line(0, 0 - 275, 0, 0 + 275);
+    p.strokeWeight(1);
+    p.line(0, -275, 0, -100);
+    p.line(0, +275, 0, 100);
     p.push();
     p.rotate(60);
-    p.line(0, 0, 0, 0  - 275);
+    p.line(0, -100, 0, -275);
     p.rotate(60)
-    p.line(0, 0, 0, 0 - 275);
+    p.line(0, -100, 0, -275);
     p.pop();
 
-
-    
+    // Calculating Total Seconds Left in the 10-Minute Countdown
     let totalsecs = Math.floor(600 - (mils / 1000));
     let secs = totalsecs % 60;
     let mins = Math.floor(totalsecs / 60);
 
     // Calculating the Angles for the Minute and Second Hands
-    let secondAngle = p.map(secs, 0, 60, 0, 360);
-    let minuteAngle = p.map(mins, 0, 60, 0, 360);
- 
+    let totalsecAngle = p.map(totalsecs, 0, 600, 0, 360);
+
+    // Timer Hand
     p.push();
-    p.rotate(secondAngle);
-    p.strokeWeight(1);
+    p.rotate(totalsecAngle);
+    p.strokeWeight(2);
     p.line(0, 0, 0, -R * 0.7);
     p.pop();
 
     p.textAlign(p.CENTER);
     p.textSize(30);
-    p.text(secondAngle + " " + minuteAngle + " " + mins + " : " + secs , 0, 0 + 350);
+    p.text(totalsecAngle + " " + mins + " : " + secs , 0, 0 + 350);
   }
   
   p.windowResized = function () { p.resizeCanvas(p.windowWidth, p.windowHeight); };
