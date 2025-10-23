@@ -31,7 +31,7 @@ const SKETCH_SCRIPT_BY_ID = {
 // 3) otherwise the first tab is used
 function getDefaultButton(buttons) {
     const params = new URLSearchParams(window.location.search);
-    const tabParam = params.get('tab') || params.get('sketch');
+    const tabParam = params.get('sk3') || params.get('sketch');
     if (tabParam) {
         // match by dataset.sketch or dataset.target
         const bySketch = Array.from(buttons).find(b => b.dataset.sketch === tabParam);
