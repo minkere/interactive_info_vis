@@ -2,6 +2,7 @@
 registerSketch('sk4', function (p) {
   p.setup = function () {
     p.createCanvas(p.windowWidth, p.windowHeight);
+    p.angleMode(p.DEGREES);
   };
   p.draw = function () {
     p.background(200, 240, 200);
