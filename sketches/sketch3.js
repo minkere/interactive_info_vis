@@ -52,10 +52,10 @@ registerSketch('sk3', function (p) {
   // position the buttons (called on setup + resize)
   p.positionTimerButtons = function () {
     if (!p.startPauseButton) return;
-    const x = Math.max(10, Math.floor((p.width / 2) + 200));
-    const y = Math.max(10, Math.floor((p.height / 2) + 320));
+    const x = 780;
+    const y = 655;
     p.startPauseButton.position(x, y);
-    if (p.resetButton) p.resetButton.position(x + 70, y);
+    if (p.resetButton) p.resetButton.position(x + 65, y);
   };
 
   p.draw = function () {
@@ -81,6 +81,15 @@ registerSketch('sk3', function (p) {
     p.fill(168, 168, 168);
     p.rect(-175, -225 , 300, 374);
 
+    // Time Increments
+    p.fill("black");
+    p.textSize(20);
+    p.textAlign(p.LEFT);
+    p.rect(-175, -38, 300, 1);
+    p.text("5 1/2 minutes", -160, -18);
+    p.rect(-175, -225, 300, 1);
+    p.text("11 minutes", -160, -205);
+
     // Timer helpers: compute remaining seconds and stop when finished
     let remainingSecs = p.getRemainingSecs();
     if (p.timerRunning && remainingSecs <= 0) {
@@ -102,10 +111,10 @@ registerSketch('sk3', function (p) {
     // optional: show time text (minimal)
     p.fill(0);
     p.textAlign(p.CENTER);
-    p.textSize(16);
+    p.textSize(35);
     const mins = Math.floor(remainingSecs / 60);
     const secs = remainingSecs % 60;
-    p.text(p.nf(mins,2) + ":" + p.nf(secs,2), 0, 220);
+    p.text(p.nf(mins,2) + ":" + p.nf(secs,2), -50, 220);
   };
 
   p.windowResized = function () { 

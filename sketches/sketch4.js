@@ -6,10 +6,16 @@ registerSketch('sk4', function (p) {
   };
   p.draw = function () {
     p.background(200, 240, 200);
-    p.fill(30, 120, 40);
-    p.textSize(32);
-    p.textAlign(p.CENTER, p.CENTER);
-    p.text('HWK #4. C', p.width / 2, p.height / 2);
+    p.clock();
   };
+
+  p.clock = function() {
+    p.translate(p.width / 2, p.height / 2);
+
+    p.circle(-100, 100, 300);
+    p.circle(100, 100, 280);
+    p.circle(0, -100, 260);
+  };
+
   p.windowResized = function () { p.resizeCanvas(p.windowWidth, p.windowHeight); };
 });
