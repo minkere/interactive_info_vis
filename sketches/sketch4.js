@@ -21,11 +21,26 @@ registerSketch('sk4', function (p) {
     p.strokeWeight(10);
     p.circle(-130, 130, 300);
 
+    // Second Text
+    p.push();
+    p.rotate(-12.5);
+    p.strokeWeight(2);
+    p.text("Seconds", -400, 112);
+    p.pop();
+
     // Minute Pot
     p.strokeWeight(40);
     p.line(170, 120, 375, 275);
     p.strokeWeight(10);
     p.circle(170, 120, 250);
+
+    // Minute Text
+    p.push();
+    p.rotate(37.2);
+    p.strokeWeight(2);
+    p.textSize(30);
+    p.text("Minutes", 410, 5);
+    p.pop();
 
     // Hour Pot
     p.strokeWeight(30);
@@ -33,6 +48,13 @@ registerSketch('sk4', function (p) {
     p.strokeWeight(10);
     p.circle(30, -100, 210);
 
+    // Hour Text
+    p.push();
+    p.rotate(-82);
+    p.strokeWeight(2);
+    p.textSize(25);
+    p.text("Hours", 265, 22);
+    p.pop();
 
     let secs = p.second();
     let mins = p.minute();
@@ -54,7 +76,7 @@ registerSketch('sk4', function (p) {
     }
 
     p.text(hrs + " : " + mins + " : " + secs, 60, 325);
-    
+
     let secSize = p.map(secs, 0, 60, 5, 300);
     let minSize = p.map(mins, 0, 60, 4.1666, 250);
     let hrSize = p.map(hrs, 0, 24, 8.75, 210);
