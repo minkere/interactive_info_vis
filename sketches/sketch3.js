@@ -118,7 +118,7 @@ registerSketch('sk3', function (p) {
   };
 
   p.windowResized = function () { 
-    p.resizeCanvas(800, 800); 
+    p.resizeCanvas(p.windowWidth, p.windowHeight); 
     p.positionTimerButtons();
   };
 });

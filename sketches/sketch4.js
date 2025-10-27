@@ -17,15 +17,15 @@ registerSketch('sk4', function (p) {
 
     // Second Pot
     p.strokeWeight(50);
-    p.line(-130, 130, -450, 200);
+    p.line(-130, 130, -250, -200);
     p.strokeWeight(10);
     p.circle(-130, 130, 300);
 
     // Second Text
     p.push();
-    p.rotate(-12.5);
+    p.rotate(70);
     p.strokeWeight(2);
-    p.text("Seconds", -400, 112);
+    p.text("Seconds", -180, 180);
     p.pop();
 
     // Minute Pot
@@ -88,6 +88,6 @@ registerSketch('sk4', function (p) {
   };
 
   p.windowResized = function () {
-    p.resizeCanvas(800, 800);
+    p.resizeCanvas(p.windowWidth, p.windowHeight);
   };
 });
