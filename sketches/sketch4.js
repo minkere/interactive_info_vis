@@ -87,5 +87,7 @@ registerSketch('sk4', function (p) {
     p.circle(30, -100, hrSize);
   };
 
-  p.windowResized = function () { p.resizeCanvas(p.windowWidth, p.windowHeight); };
+  p.windowResized = function () {
+    p.resizeCanvas(800, 800);
+  };
 });

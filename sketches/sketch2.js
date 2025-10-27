@@ -170,5 +170,7 @@ registerSketch('sk2', function (p) {
 
   }
   
-  p.windowResized = function () { p.resizeCanvas(p.windowWidth, p.windowHeight); };
+  p.windowResized = function () { 
+    p.resizeCanvas(800, 800);
+  };
 });
