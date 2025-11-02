@@ -1,0 +1,1353 @@
+Commodity,Country,UOM,Category,SubCategory,RowNumber,YearNum,FoodValue
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,1999,553.3
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,1999,519.3
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,1999,4.0
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,1999,480.6
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,1999,118.1
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,1999,172.3
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,1999,180.0
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,1999,1576.1
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,1999,3603.7
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,1999,1650.7
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,1999,466.7
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,1999,497.3
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,1999,301.5
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,1999,49.3
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,1999,88.8
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,1999,100.3
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,1999,1030.1
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,1999,2534.0
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,1999,1233.6
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,1999,0.8
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,1999,83.4
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,1999,15.4
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,1999,5.4
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,1999,6.7
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,1999,68.4
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,1999,180.1
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,1999,40.9
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,1999,27.4
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,1999,43.5
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,1999,16.2
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,1999,33.4
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,1999,61.5
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,1999,182.0
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,1999,34.7
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,1999,3.7
+Tea and mate,CHINA,Million $,Coffee,Foods,36,1999,24.5
+Tea and mate,CANADA,Million $,Coffee,Foods,37,1999,37.0
+Tea and mate,INDIA,Million $,Coffee,Foods,38,1999,20.3
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,1999,127.1
+Tea and mate,WORLD,Million $,Coffee,Foods,40,1999,212.6
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,1999,152.0
+Spices,VIETNAM,Million $,Coffee,Foods,42,1999,16.6
+Spices,INDIA,Million $,Coffee,Foods,43,1999,144.6
+Spices,MEXICO,Million $,Coffee,Foods,44,1999,30.6
+Spices,CHINA,Million $,Coffee,Foods,45,1999,20.8
+Spices,INDONESIA,Million $,Coffee,Foods,46,1999,100.3
+Spices,SPAIN,Million $,Coffee,Foods,47,1999,15.7
+Spices,PERU,Million $,Coffee,Foods,48,1999,0.1
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,1999,19.0
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,1999,147.3
+Spices,WORLD,Million $,Coffee,Foods,51,1999,495.0
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,1999,189.5
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2000,336.4
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2000,451.6
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2000,10.0
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2000,501.3
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2000,132.8
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2000,176.4
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2000,147.4
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2000,1685.9
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2000,3441.8
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2000,1725.2
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2000,254.7
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2000,436.0
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2000,301.8
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2000,97.4
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2000,84.9
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2000,111.9
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2000,1062.8
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2000,2349.5
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2000,1297.3
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2000,0.7
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2000,85.0
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2000,16.8
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2000,3.2
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2000,6.2
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2000,67.2
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2000,179.1
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2000,41.1
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2000,31.3
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2000,35.1
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2000,12.0
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2000,34.1
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2000,61.7
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2000,174.2
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2000,33.7
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2000,4.0
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2000,20.4
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2000,46.0
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2000,21.4
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2000,126.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2000,218.5
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2000,161.0
+Spices,VIETNAM,Million $,Coffee,Foods,42,2000,18.6
+Spices,INDIA,Million $,Coffee,Foods,43,2000,91.7
+Spices,MEXICO,Million $,Coffee,Foods,44,2000,29.8
+Spices,CHINA,Million $,Coffee,Foods,45,2000,26.0
+Spices,INDONESIA,Million $,Coffee,Foods,46,2000,132.3
+Spices,SPAIN,Million $,Coffee,Foods,47,2000,17.5
+Spices,PERU,Million $,Coffee,Foods,48,2000,1.4
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2000,30.6
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2000,172.6
+Spices,WORLD,Million $,Coffee,Foods,51,2000,520.5
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2000,192.0
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2001,233.3
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2001,318.8
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2001,17.9
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2001,221.2
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2001,89.8
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2001,169.4
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2001,92.7
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2001,1257.6
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2001,2400.7
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2001,1599.8
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2001,161.4
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2001,301.3
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2001,174.4
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2001,35.7
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2001,48.0
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2001,75.3
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2001,560.9
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2001,1357.0
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2001,1159.0
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2001,0.9
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2001,79.9
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2001,14.6
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2001,4.8
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2001,4.3
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2001,54.0
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2001,158.5
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2001,38.2
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2001,32.8
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2001,30.7
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2001,12.1
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2001,33.4
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2001,55.0
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2001,164.0
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2001,34.1
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2001,3.5
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2001,21.4
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2001,52.5
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2001,23.1
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2001,135.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2001,236.2
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2001,164.7
+Spices,VIETNAM,Million $,Coffee,Foods,42,2001,12.1
+Spices,INDIA,Million $,Coffee,Foods,43,2001,59.4
+Spices,MEXICO,Million $,Coffee,Foods,44,2001,28.5
+Spices,CHINA,Million $,Coffee,Foods,45,2001,28.1
+Spices,INDONESIA,Million $,Coffee,Foods,46,2001,106.1
+Spices,SPAIN,Million $,Coffee,Foods,47,2001,15.8
+Spices,PERU,Million $,Coffee,Foods,48,2001,2.6
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2001,78.1
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2001,154.3
+Spices,WORLD,Million $,Coffee,Foods,51,2001,485.0
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2001,203.9
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2002,259.8
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2002,331.4
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2002,22.2
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2002,226.8
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2002,73.2
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2002,171.6
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2002,79.6
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2002,1290.4
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2002,2455.0
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2002,1635.5
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2002,201.9
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2002,315.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2002,167.5
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2002,27.1
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2002,57.5
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2002,51.7
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2002,548.2
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2002,1369.4
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2002,1162.8
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2002,1.2
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2002,70.6
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2002,18.2
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2002,4.6
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2002,3.1
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2002,57.2
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2002,154.9
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2002,39.9
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2002,35.6
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2002,23.5
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2002,8.3
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2002,35.2
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2002,69.3
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2002,171.9
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2002,37.0
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2002,4.5
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2002,27.4
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2002,53.4
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2002,23.5
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2002,137.2
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2002,246.0
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2002,163.0
+Spices,VIETNAM,Million $,Coffee,Foods,42,2002,18.9
+Spices,INDIA,Million $,Coffee,Foods,43,2002,51.8
+Spices,MEXICO,Million $,Coffee,Foods,44,2002,35.9
+Spices,CHINA,Million $,Coffee,Foods,45,2002,31.1
+Spices,INDONESIA,Million $,Coffee,Foods,46,2002,80.9
+Spices,SPAIN,Million $,Coffee,Foods,47,2002,17.0
+Spices,PERU,Million $,Coffee,Foods,48,2002,7.4
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2002,115.5
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2002,154.3
+Spices,WORLD,Million $,Coffee,Foods,51,2002,512.8
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2002,232.9
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2003,339.5
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2003,377.3
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2003,28.7
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2003,196.6
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2003,98.3
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2003,167.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2003,78.8
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2003,1585.7
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2003,2871.9
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2003,1715.0
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2003,268.6
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2003,360.6
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2003,212.2
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2003,24.3
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2003,61.7
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2003,74.1
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2003,610.6
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2003,1612.1
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2003,1219.7
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2003,1.6
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2003,70.9
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2003,22.3
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2003,4.6
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2003,3.9
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2003,61.2
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2003,164.5
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2003,41.2
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2003,32.3
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2003,32.7
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2003,8.9
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2003,42.3
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2003,68.4
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2003,184.6
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2003,42.8
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2003,5.4
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2003,35.3
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2003,53.3
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2003,29.0
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2003,143.2
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2003,266.2
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2003,168.0
+Spices,VIETNAM,Million $,Coffee,Foods,42,2003,20.7
+Spices,INDIA,Million $,Coffee,Foods,43,2003,46.3
+Spices,MEXICO,Million $,Coffee,Foods,44,2003,30.1
+Spices,CHINA,Million $,Coffee,Foods,45,2003,38.4
+Spices,INDONESIA,Million $,Coffee,Foods,46,2003,119.2
+Spices,SPAIN,Million $,Coffee,Foods,47,2003,18.5
+Spices,PERU,Million $,Coffee,Foods,48,2003,7.9
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2003,179.0
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2003,184.5
+Spices,WORLD,Million $,Coffee,Foods,51,2003,644.6
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2003,243.4
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2004,394.0
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2004,410.0
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2004,36.2
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2004,215.3
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2004,144.5
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2004,181.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2004,90.0
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2004,1673.3
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2004,3144.3
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2004,1757.1
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2004,318.9
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2004,386.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2004,212.6
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2004,42.6
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2004,75.2
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2004,111.4
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2004,720.5
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2004,1867.7
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2004,1239.0
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2004,2.4
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2004,81.1
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2004,25.9
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2004,5.3
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2004,10.1
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2004,71.7
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2004,196.5
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2004,41.4
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2004,35.9
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2004,31.5
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2004,13.8
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2004,48.0
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2004,73.2
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2004,202.4
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2004,44.0
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2004,5.7
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2004,38.4
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2004,62.9
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2004,28.5
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2004,157.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2004,293.2
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2004,184.3
+Spices,VIETNAM,Million $,Coffee,Foods,42,2004,28.9
+Spices,INDIA,Million $,Coffee,Foods,43,2004,54.1
+Spices,MEXICO,Million $,Coffee,Foods,44,2004,26.2
+Spices,CHINA,Million $,Coffee,Foods,45,2004,54.7
+Spices,INDONESIA,Million $,Coffee,Foods,46,2004,72.8
+Spices,SPAIN,Million $,Coffee,Foods,47,2004,17.7
+Spices,PERU,Million $,Coffee,Foods,48,2004,16.8
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2004,134.2
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2004,179.2
+Spices,WORLD,Million $,Coffee,Foods,51,2004,584.6
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2004,248.4
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2005,562.5
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2005,632.7
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2005,38.4
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2005,251.8
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2005,190.7
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2005,196.8
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2005,92.7
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2005,1805.2
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2005,3770.8
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2005,1744.6
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2005,466.4
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2005,598.0
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2005,284.1
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2005,60.3
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2005,78.8
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2005,148.2
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2005,866.2
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2005,2502.0
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2005,1213.6
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2005,3.2
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2005,100.5
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2005,31.7
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2005,6.9
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2005,16.7
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2005,94.7
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2005,253.7
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2005,46.9
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2005,49.5
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2005,50.4
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2005,23.3
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2005,15.2
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2005,84.5
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2005,222.9
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2005,48.6
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2005,10.4
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2005,47.7
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2005,61.7
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2005,36.8
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2005,174.1
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2005,330.7
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2005,175.9
+Spices,VIETNAM,Million $,Coffee,Foods,42,2005,32.6
+Spices,INDIA,Million $,Coffee,Foods,43,2005,51.2
+Spices,MEXICO,Million $,Coffee,Foods,44,2005,31.4
+Spices,CHINA,Million $,Coffee,Foods,45,2005,53.7
+Spices,INDONESIA,Million $,Coffee,Foods,46,2005,50.8
+Spices,SPAIN,Million $,Coffee,Foods,47,2005,17.8
+Spices,PERU,Million $,Coffee,Foods,48,2005,34.9
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2005,36.9
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2005,152.3
+Spices,WORLD,Million $,Coffee,Foods,51,2005,461.6
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2005,259.6
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2006,642.0
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2006,629.9
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2006,37.9
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2006,295.9
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2006,243.1
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2006,201.4
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2006,118.2
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2006,2026.5
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2006,4194.9
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2006,1825.5
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2006,530.1
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2006,594.9
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2006,277.6
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2006,58.1
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2006,120.1
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2006,200.1
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2006,1048.5
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2006,2829.4
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2006,1276.6
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2006,4.0
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2006,99.7
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2006,36.7
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2006,3.9
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2006,4.9
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2006,102.1
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2006,251.3
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2006,44.8
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2006,58.8
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2006,52.1
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2006,24.8
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2006,8.7
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2006,90.9
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2006,235.3
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2006,39.7
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2006,18.5
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2006,60.7
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2006,65.2
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2006,42.6
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2006,192.5
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2006,379.5
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2006,187.6
+Spices,VIETNAM,Million $,Coffee,Foods,42,2006,37.0
+Spices,INDIA,Million $,Coffee,Foods,43,2006,66.6
+Spices,MEXICO,Million $,Coffee,Foods,44,2006,32.4
+Spices,CHINA,Million $,Coffee,Foods,45,2006,49.0
+Spices,INDONESIA,Million $,Coffee,Foods,46,2006,58.8
+Spices,SPAIN,Million $,Coffee,Foods,47,2006,19.0
+Spices,PERU,Million $,Coffee,Foods,48,2006,40.1
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2006,31.1
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2006,165.4
+Spices,WORLD,Million $,Coffee,Foods,51,2006,499.4
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2006,276.9
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2007,746.0
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2007,706.8
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2007,35.5
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2007,332.3
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2007,341.5
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2007,200.8
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2007,170.6
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2007,2257.7
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2007,4791.2
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2007,1850.9
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2007,613.8
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2007,677.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2007,309.2
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2007,100.0
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2007,137.1
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2007,305.2
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2007,1094.0
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2007,3236.8
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2007,1312.6
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2007,20.7
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2007,103.9
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2007,42.0
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2007,3.7
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2007,3.9
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2007,102.0
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2007,276.2
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2007,42.8
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2007,83.9
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2007,65.3
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2007,19.8
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2007,6.7
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2007,81.9
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2007,257.6
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2007,38.7
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2007,19.1
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2007,70.8
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2007,68.3
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2007,39.5
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2007,203.1
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2007,400.8
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2007,187.5
+Spices,VIETNAM,Million $,Coffee,Foods,42,2007,29.4
+Spices,INDIA,Million $,Coffee,Foods,43,2007,122.4
+Spices,MEXICO,Million $,Coffee,Foods,44,2007,31.6
+Spices,CHINA,Million $,Coffee,Foods,45,2007,62.9
+Spices,INDONESIA,Million $,Coffee,Foods,46,2007,91.5
+Spices,SPAIN,Million $,Coffee,Foods,47,2007,23.1
+Spices,PERU,Million $,Coffee,Foods,48,2007,42.0
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2007,34.2
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2007,182.7
+Spices,WORLD,Million $,Coffee,Foods,51,2007,619.8
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2007,269.4
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2008,863.2
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2008,853.7
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2008,38.6
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2008,365.4
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2008,350.9
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2008,224.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2008,189.9
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2008,2695.1
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2008,5580.8
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2008,1881.9
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2008,724.3
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2008,804.9
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2008,369.5
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2008,131.6
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2008,168.8
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2008,291.5
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2008,1313.8
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2008,3804.4
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2008,1311.0
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2008,23.9
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2008,122.3
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2008,44.1
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2008,11.5
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2008,3.8
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2008,110.6
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2008,316.2
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2008,42.1
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2008,93.1
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2008,79.9
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2008,30.8
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2008,0.3
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2008,91.0
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2008,295.1
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2008,40.9
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2008,19.0
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2008,80.5
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2008,73.9
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2008,48.9
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2008,217.2
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2008,439.5
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2008,199.1
+Spices,VIETNAM,Million $,Coffee,Foods,42,2008,51.7
+Spices,INDIA,Million $,Coffee,Foods,43,2008,132.6
+Spices,MEXICO,Million $,Coffee,Foods,44,2008,32.1
+Spices,CHINA,Million $,Coffee,Foods,45,2008,83.3
+Spices,INDONESIA,Million $,Coffee,Foods,46,2008,130.5
+Spices,SPAIN,Million $,Coffee,Foods,47,2008,31.2
+Spices,PERU,Million $,Coffee,Foods,48,2008,61.9
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2008,29.2
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2008,173.1
+Spices,WORLD,Million $,Coffee,Foods,51,2008,725.6
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2008,288.7
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2009,867.0
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2009,789.0
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2009,54.5
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2009,379.1
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2009,326.7
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2009,279.1
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2009,155.6
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2009,2309.3
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2009,5160.3
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2009,1823.0
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2009,739.1
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2009,686.4
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2009,339.3
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2009,74.4
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2009,161.9
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2009,257.0
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2009,1117.1
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2009,3375.2
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2009,1255.6
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2009,27.4
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2009,169.1
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2009,39.8
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2009,29.9
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2009,13.6
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2009,91.6
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2009,371.4
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2009,50.9
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2009,93.1
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2009,71.3
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2009,66.1
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2009,0.0
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2009,95.9
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2009,326.4
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2009,42.4
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2009,21.9
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2009,66.8
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2009,91.4
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2009,50.3
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2009,209.8
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2009,440.2
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2009,189.8
+Spices,VIETNAM,Million $,Coffee,Foods,42,2009,55.9
+Spices,INDIA,Million $,Coffee,Foods,43,2009,96.5
+Spices,MEXICO,Million $,Coffee,Foods,44,2009,40.0
+Spices,CHINA,Million $,Coffee,Foods,45,2009,80.1
+Spices,INDONESIA,Million $,Coffee,Foods,46,2009,100.2
+Spices,SPAIN,Million $,Coffee,Foods,47,2009,41.6
+Spices,PERU,Million $,Coffee,Foods,48,2009,45.6
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2009,28.6
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2009,158.8
+Spices,WORLD,Million $,Coffee,Foods,51,2009,647.3
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2009,284.4
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2010,1209.9
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2010,918.1
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2010,62.2
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2010,389.7
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2010,439.7
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2010,384.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2010,196.8
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2010,2664.6
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2010,6265.0
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2010,1894.6
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2010,1083.4
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2010,772.7
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2010,294.0
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2010,77.0
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2010,212.9
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2010,360.1
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2010,1254.9
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2010,4055.0
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2010,1280.5
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2010,41.4
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2010,263.1
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2010,47.0
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2010,36.0
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2010,32.9
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2010,84.3
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2010,504.7
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2010,63.7
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2010,99.0
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2010,72.2
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2010,100.6
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2010,0.2
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2010,114.9
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2010,386.9
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2010,47.0
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2010,24.7
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2010,82.3
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2010,103.8
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2010,58.7
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2010,250.0
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2010,519.5
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2010,203.2
+Spices,VIETNAM,Million $,Coffee,Foods,42,2010,64.3
+Spices,INDIA,Million $,Coffee,Foods,43,2010,119.8
+Spices,MEXICO,Million $,Coffee,Foods,44,2010,44.5
+Spices,CHINA,Million $,Coffee,Foods,45,2010,107.6
+Spices,INDONESIA,Million $,Coffee,Foods,46,2010,146.2
+Spices,SPAIN,Million $,Coffee,Foods,47,2010,41.4
+Spices,PERU,Million $,Coffee,Foods,48,2010,46.2
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2010,28.3
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2010,200.7
+Spices,WORLD,Million $,Coffee,Foods,51,2010,799.0
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2010,300.3
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2011,2111.4
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2011,1441.9
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2011,84.7
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2011,653.2
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2011,635.9
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2011,520.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2011,269.3
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2011,3999.4
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2011,9715.8
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2011,2015.0
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2011,1918.4
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2011,1262.2
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2011,576.8
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2011,230.7
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2011,369.9
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2011,487.5
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2011,2060.9
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2011,6906.4
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2011,1376.7
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2011,61.7
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2011,401.2
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2011,59.5
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2011,54.2
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2011,50.5
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2011,116.9
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2011,744.0
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2011,75.0
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2011,99.5
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2011,91.6
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2011,117.6
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2011,0.1
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2011,142.3
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2011,451.1
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2011,44.4
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2011,32.3
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2011,102.6
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2011,106.0
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2011,65.2
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2011,263.3
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2011,569.4
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2011,202.2
+Spices,VIETNAM,Million $,Coffee,Foods,42,2011,130.1
+Spices,INDIA,Million $,Coffee,Foods,43,2011,174.7
+Spices,MEXICO,Million $,Coffee,Foods,44,2011,48.6
+Spices,CHINA,Million $,Coffee,Foods,45,2011,121.4
+Spices,INDONESIA,Million $,Coffee,Foods,46,2011,182.5
+Spices,SPAIN,Million $,Coffee,Foods,47,2011,41.9
+Spices,PERU,Million $,Coffee,Foods,48,2011,63.1
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2011,25.5
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2011,257.1
+Spices,WORLD,Million $,Coffee,Foods,51,2011,1044.9
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2011,316.6
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2012,1515.4
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2012,999.5
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2012,66.4
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2012,647.3
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2012,731.3
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2012,524.6
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2012,308.7
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2012,3932.5
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2012,8725.7
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2012,2018.8
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2012,1334.1
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2012,847.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2012,565.4
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2012,281.7
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2012,241.6
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2012,600.9
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2012,1936.5
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2012,5807.7
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2012,1371.1
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2012,36.5
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2012,406.2
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2012,68.0
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2012,54.9
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2012,27.9
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2012,130.7
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2012,724.2
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2012,74.6
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2012,116.1
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2012,97.3
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2012,91.9
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2012,0.2
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2012,185.7
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2012,491.2
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2012,45.8
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2012,30.0
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2012,126.0
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2012,105.6
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2012,59.0
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2012,268.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2012,589.3
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2012,201.2
+Spices,VIETNAM,Million $,Coffee,Foods,42,2012,100.8
+Spices,INDIA,Million $,Coffee,Foods,43,2012,209.4
+Spices,MEXICO,Million $,Coffee,Foods,44,2012,51.9
+Spices,CHINA,Million $,Coffee,Foods,45,2012,116.5
+Spices,INDONESIA,Million $,Coffee,Foods,46,2012,242.2
+Spices,SPAIN,Million $,Coffee,Foods,47,2012,51.2
+Spices,PERU,Million $,Coffee,Foods,48,2012,60.2
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2012,45.3
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2012,235.8
+Spices,WORLD,Million $,Coffee,Foods,51,2012,1113.3
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2012,326.2
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2013,1291.1
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2013,1026.2
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2013,49.1
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2013,539.6
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2013,674.7
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2013,503.1
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2013,289.1
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2013,3260.3
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2013,7633.2
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2013,2087.0
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2013,1071.1
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2013,900.2
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2013,410.5
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2013,158.6
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2013,172.9
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2013,467.9
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2013,1488.7
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2013,4669.9
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2013,1423.8
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2013,39.8
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2013,386.1
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2013,70.9
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2013,30.0
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2013,30.8
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2013,96.0
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2013,653.6
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2013,69.5
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2013,134.0
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2013,112.4
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2013,87.0
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2013,0.7
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2013,155.8
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2013,489.9
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2013,49.2
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2013,34.0
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2013,128.1
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2013,101.3
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2013,69.0
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2013,294.0
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2013,626.4
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2013,206.6
+Spices,VIETNAM,Million $,Coffee,Foods,42,2013,177.6
+Spices,INDIA,Million $,Coffee,Foods,43,2013,181.2
+Spices,MEXICO,Million $,Coffee,Foods,44,2013,58.7
+Spices,CHINA,Million $,Coffee,Foods,45,2013,131.0
+Spices,INDONESIA,Million $,Coffee,Foods,46,2013,216.3
+Spices,SPAIN,Million $,Coffee,Foods,47,2013,41.0
+Spices,PERU,Million $,Coffee,Foods,48,2013,49.7
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2013,50.2
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2013,287.6
+Spices,WORLD,Million $,Coffee,Foods,51,2013,1193.3
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2013,337.9
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2014,1552.7
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2014,1243.7
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2014,59.5
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2014,463.4
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2014,809.8
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2014,498.8
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2014,288.9
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2014,3382.0
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2014,8298.8
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2014,2112.4
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2014,1333.4
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2014,1129.7
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2014,359.8
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2014,198.4
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2014,209.2
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2014,493.7
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2014,1504.4
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2014,5228.6
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2014,1457.1
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2014,53.9
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2014,380.2
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2014,81.3
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2014,35.2
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2014,30.4
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2014,78.3
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2014,659.3
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2014,68.3
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2014,115.1
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2014,97.2
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2014,71.0
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2014,0.1
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2014,165.4
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2014,448.8
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2014,49.6
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2014,31.7
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2014,118.1
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2014,87.6
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2014,66.7
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2014,312.6
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2014,616.7
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2014,199.6
+Spices,VIETNAM,Million $,Coffee,Foods,42,2014,284.3
+Spices,INDIA,Million $,Coffee,Foods,43,2014,185.2
+Spices,MEXICO,Million $,Coffee,Foods,44,2014,60.2
+Spices,CHINA,Million $,Coffee,Foods,45,2014,163.8
+Spices,INDONESIA,Million $,Coffee,Foods,46,2014,163.5
+Spices,SPAIN,Million $,Coffee,Foods,47,2014,41.7
+Spices,PERU,Million $,Coffee,Foods,48,2014,59.4
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2014,74.5
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2014,312.7
+Spices,WORLD,Million $,Coffee,Foods,51,2014,1345.3
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2014,337.8
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2015,1585.6
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2015,1311.2
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2015,118.4
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2015,413.3
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2015,684.4
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2015,541.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2015,357.0
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2015,3525.3
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2015,8536.2
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2015,2161.0
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2015,1335.0
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2015,1196.9
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2015,323.7
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2015,212.9
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2015,177.3
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2015,357.0
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2015,1515.8
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2015,5118.6
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2015,1461.3
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2015,112.3
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2015,420.0
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2015,97.5
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2015,35.1
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2015,43.4
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2015,74.6
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2015,782.9
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2015,76.0
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2015,102.4
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2015,92.9
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2015,73.3
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2015,0.1
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2015,137.4
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2015,406.1
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2015,48.4
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2015,37.8
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2015,124.4
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2015,86.1
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2015,65.1
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2015,304.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2015,618.1
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2015,202.3
+Spices,VIETNAM,Million $,Coffee,Foods,42,2015,299.1
+Spices,INDIA,Million $,Coffee,Foods,43,2015,260.1
+Spices,MEXICO,Million $,Coffee,Foods,44,2015,62.8
+Spices,CHINA,Million $,Coffee,Foods,45,2015,155.9
+Spices,INDONESIA,Million $,Coffee,Foods,46,2015,245.0
+Spices,SPAIN,Million $,Coffee,Foods,47,2015,47.7
+Spices,PERU,Million $,Coffee,Foods,48,2015,63.7
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2015,120.9
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2015,355.3
+Spices,WORLD,Million $,Coffee,Foods,51,2015,1610.5
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2015,373.0
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2016,1277.8
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2016,1194.9
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2016,115.4
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2016,338.6
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2016,864.4
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2016,582.7
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2016,349.1
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2016,3588.4
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2016,8311.3
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2016,2235.8
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2016,1080.8
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2016,1093.6
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2016,258.2
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2016,246.5
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2016,235.7
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2016,494.7
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2016,1414.7
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2016,4824.2
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2016,1515.6
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2016,110.4
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2016,469.6
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2016,99.7
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2016,32.8
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2016,37.1
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2016,83.5
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2016,833.1
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2016,85.2
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2016,89.2
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2016,82.3
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2016,63.7
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2016,0.1
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2016,116.3
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2016,351.6
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2016,48.4
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2016,45.5
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2016,136.8
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2016,87.6
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2016,66.3
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2016,312.8
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2016,649.0
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2016,200.7
+Spices,VIETNAM,Million $,Coffee,Foods,42,2016,342.3
+Spices,INDIA,Million $,Coffee,Foods,43,2016,248.3
+Spices,MEXICO,Million $,Coffee,Foods,44,2016,64.0
+Spices,CHINA,Million $,Coffee,Foods,45,2016,143.9
+Spices,INDONESIA,Million $,Coffee,Foods,46,2016,217.9
+Spices,SPAIN,Million $,Coffee,Foods,47,2016,52.0
+Spices,PERU,Million $,Coffee,Foods,48,2016,51.5
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2016,227.8
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2016,305.8
+Spices,WORLD,Million $,Coffee,Foods,51,2016,1653.5
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2016,386.1
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2017,1258.6
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2017,1367.9
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2017,186.0
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2017,387.1
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2017,803.4
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2017,647.9
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2017,355.7
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2017,4060.1
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2017,9066.7
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2017,2276.2
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2017,1073.1
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2017,1253.2
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2017,329.7
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2017,294.9
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2017,230.1
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2017,516.2
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2017,1535.7
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2017,5232.9
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2017,1532.3
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2017,182.7
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2017,529.7
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2017,107.4
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2017,50.2
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2017,40.3
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2017,90.4
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2017,1000.7
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2017,93.2
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2017,94.5
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2017,100.3
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2017,61.8
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2017,0.3
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2017,131.5
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2017,388.4
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2017,52.3
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2017,52.7
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2017,125.3
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2017,96.7
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2017,69.1
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2017,300.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2017,644.5
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2017,193.7
+Spices,VIETNAM,Million $,Coffee,Foods,42,2017,261.6
+Spices,INDIA,Million $,Coffee,Foods,43,2017,238.6
+Spices,MEXICO,Million $,Coffee,Foods,44,2017,65.4
+Spices,CHINA,Million $,Coffee,Foods,45,2017,156.7
+Spices,INDONESIA,Million $,Coffee,Foods,46,2017,243.6
+Spices,SPAIN,Million $,Coffee,Foods,47,2017,60.2
+Spices,PERU,Million $,Coffee,Foods,48,2017,48.0
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2017,401.7
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2017,324.4
+Spices,WORLD,Million $,Coffee,Foods,51,2017,1800.2
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2017,404.8
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2018,1122.4
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2018,1254.0
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2018,238.2
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2018,403.1
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2018,618.1
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2018,519.4
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2018,332.7
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2018,3966.8
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2018,8454.7
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2018,2236.8
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2018,962.1
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2018,1142.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2018,326.2
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2018,210.7
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2018,221.4
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2018,392.4
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2018,1485.7
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2018,4741.0
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2018,1503.2
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2018,235.9
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2018,407.1
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2018,109.4
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2018,43.4
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2018,37.9
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2018,94.2
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2018,927.9
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2018,88.6
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2018,89.9
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2018,100.9
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2018,63.2
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2018,0.4
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2018,134.7
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2018,389.1
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2018,53.1
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2018,63.0
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2018,132.9
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2018,85.9
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2018,60.7
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2018,294.9
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2018,637.4
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2018,181.0
+Spices,VIETNAM,Million $,Coffee,Foods,42,2018,201.2
+Spices,INDIA,Million $,Coffee,Foods,43,2018,220.2
+Spices,MEXICO,Million $,Coffee,Foods,44,2018,79.3
+Spices,CHINA,Million $,Coffee,Foods,45,2018,163.0
+Spices,INDONESIA,Million $,Coffee,Foods,46,2018,171.3
+Spices,SPAIN,Million $,Coffee,Foods,47,2018,58.4
+Spices,PERU,Million $,Coffee,Foods,48,2018,53.0
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2018,521.6
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2018,291.4
+Spices,WORLD,Million $,Coffee,Foods,51,2018,1759.4
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2018,410.9
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2019,1171.6
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2019,1267.9
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2019,360.9
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2019,385.3
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2019,497.7
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2019,511.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2019,334.1
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2019,3898.8
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2019,8427.3
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2019,2371.9
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2019,1034.5
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2019,1140.4
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2019,316.4
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2019,245.8
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2019,215.9
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2019,277.3
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2019,1388.3
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2019,4618.6
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2019,1592.5
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2019,360.2
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2019,394.4
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2019,120.3
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2019,48.1
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2019,38.5
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2019,117.3
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2019,1078.8
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2019,102.7
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2019,102.9
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2019,92.9
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2019,70.7
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2019,0.5
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2019,141.4
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2019,408.4
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2019,60.3
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2019,62.4
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2019,125.2
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2019,96.7
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2019,67.6
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2019,309.5
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2019,661.4
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2019,188.6
+Spices,VIETNAM,Million $,Coffee,Foods,42,2019,193.5
+Spices,INDIA,Million $,Coffee,Foods,43,2019,224.5
+Spices,MEXICO,Million $,Coffee,Foods,44,2019,85.4
+Spices,CHINA,Million $,Coffee,Foods,45,2019,167.8
+Spices,INDONESIA,Million $,Coffee,Foods,46,2019,176.7
+Spices,SPAIN,Million $,Coffee,Foods,47,2019,62.2
+Spices,PERU,Million $,Coffee,Foods,48,2019,56.0
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2019,419.1
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2019,274.9
+Spices,WORLD,Million $,Coffee,Foods,51,2019,1660.1
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2019,427.7
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2020,1216.7
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2020,1221.8
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2020,454.5
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2020,405.8
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2020,511.6
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2020,483.9
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2020,346.9
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2020,3705.0
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2020,8346.2
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2020,2254.6
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2020,1045.8
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2020,1065.7
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2020,302.4
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2020,237.3
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2020,216.2
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2020,275.3
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2020,1282.4
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2020,4425.1
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2020,1427.7
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2020,454.0
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2020,375.2
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2020,91.1
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2020,54.2
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2020,37.7
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2020,101.5
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2020,1113.7
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2020,97.2
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2020,103.5
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2020,108.6
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2020,91.2
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2020,0.7
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2020,184.5
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2020,488.5
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2020,70.9
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2020,81.6
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2020,107.5
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2020,96.2
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2020,70.4
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2020,303.6
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2020,659.3
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2020,181.0
+Spices,VIETNAM,Million $,Coffee,Foods,42,2020,202.8
+Spices,INDIA,Million $,Coffee,Foods,43,2020,240.0
+Spices,MEXICO,Million $,Coffee,Foods,44,2020,93.7
+Spices,CHINA,Million $,Coffee,Foods,45,2020,152.2
+Spices,INDONESIA,Million $,Coffee,Foods,46,2020,175.8
+Spices,SPAIN,Million $,Coffee,Foods,47,2020,76.3
+Spices,PERU,Million $,Coffee,Foods,48,2020,82.7
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2020,288.9
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2020,347.2
+Spices,WORLD,Million $,Coffee,Foods,51,2020,1659.6
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2020,477.7
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2021,1378.7
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2021,1485.3
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2021,790.9
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2021,487.0
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2021,602.8
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2021,533.9
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2021,449.6
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2021,4091.0
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2021,9819.2
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2021,2344.6
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2021,1222.5
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2021,1309.8
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2021,410.8
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2021,381.5
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2021,182.4
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2021,263.0
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2021,1423.5
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2021,5193.5
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2021,1469.4
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2021,790.0
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2021,441.3
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2021,125.4
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2021,55.0
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2021,44.4
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2021,102.6
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2021,1558.7
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2021,109.8
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2021,100.4
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2021,95.8
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2021,109.3
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2021,7.0
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2021,179.5
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2021,492.0
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2021,66.9
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2021,95.0
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2021,111.6
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2021,81.0
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2021,85.0
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2021,346.7
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2021,719.3
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2021,186.9
+Spices,VIETNAM,Million $,Coffee,Foods,42,2021,298.3
+Spices,INDIA,Million $,Coffee,Foods,43,2021,311.7
+Spices,MEXICO,Million $,Coffee,Foods,44,2021,102.0
+Spices,CHINA,Million $,Coffee,Foods,45,2021,152.6
+Spices,INDONESIA,Million $,Coffee,Foods,46,2021,180.9
+Spices,SPAIN,Million $,Coffee,Foods,47,2021,94.5
+Spices,PERU,Million $,Coffee,Foods,48,2021,88.7
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2021,255.5
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2021,371.5
+Spices,WORLD,Million $,Coffee,Foods,51,2021,1855.7
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2021,511.6
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2022,2266.7
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2022,2132.0
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2022,854.1
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2022,729.9
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2022,765.3
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2022,716.4
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2022,438.0
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2022,5077.5
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2022,12979.9
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2022,2413.7
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2022,2051.5
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2022,1849.8
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2022,536.5
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2022,396.5
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2022,355.5
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2022,322.7
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2022,2101.1
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2022,7613.6
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2022,1512.7
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2022,851.9
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2022,613.9
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2022,136.5
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2022,81.3
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2022,32.3
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2022,138.7
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2022,1854.6
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2022,112.3
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2022,138.7
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2022,150.5
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2022,190.2
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2022,52.6
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2022,235.4
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2022,767.4
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2022,89.1
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2022,84.7
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2022,115.8
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2022,88.5
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2022,82.9
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2022,382.5
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2022,754.4
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2022,199.7
+Spices,VIETNAM,Million $,Coffee,Foods,42,2022,390.8
+Spices,INDIA,Million $,Coffee,Foods,43,2022,285.9
+Spices,MEXICO,Million $,Coffee,Foods,44,2022,105.4
+Spices,CHINA,Million $,Coffee,Foods,45,2022,153.6
+Spices,INDONESIA,Million $,Coffee,Foods,46,2022,174.8
+Spices,SPAIN,Million $,Coffee,Foods,47,2022,119.3
+Spices,PERU,Million $,Coffee,Foods,48,2022,96.5
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2022,286.5
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2022,377.2
+Spices,WORLD,Million $,Coffee,Foods,51,2022,1990.0
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2022,499.9
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2023,1541.4
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2023,1560.8
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2023,1123.4
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2023,727.9
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2023,683.0
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2023,673.0
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2023,446.8
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2023,4519.3
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2023,11275.6
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2023,2129.9
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2023,1347.5
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2023,1311.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2023,456.7
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2023,462.1
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2023,261.2
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2023,344.1
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2023,1741.2
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2023,5924.3
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2023,1276.0
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2023,1120.3
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2023,564.0
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2023,136.1
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2023,67.6
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2023,50.5
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2023,133.5
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2023,2072.0
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2023,113.0
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2023,190.7
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2023,149.0
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2023,172.1
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2023,44.4
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2023,221.1
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2023,777.3
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2023,76.7
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2023,108.2
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2023,98.1
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2023,92.2
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2023,71.8
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2023,371.1
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2023,741.4
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2023,182.6
+Spices,VIETNAM,Million $,Coffee,Foods,42,2023,298.9
+Spices,INDIA,Million $,Coffee,Foods,43,2023,304.4
+Spices,MEXICO,Million $,Coffee,Foods,44,2023,139.4
+Spices,CHINA,Million $,Coffee,Foods,45,2023,165.7
+Spices,INDONESIA,Million $,Coffee,Foods,46,2023,116.5
+Spices,SPAIN,Million $,Coffee,Foods,47,2023,133.7
+Spices,PERU,Million $,Coffee,Foods,48,2023,124.4
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2023,150.7
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2023,326.9
+Spices,WORLD,Million $,Coffee,Foods,51,2023,1760.6
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2023,481.5
+"Total coffee, tea, and spices",BRAZIL,Million $,Coffee,Foods,1,2024,2182.4
+"Total coffee, tea, and spices",COLOMBIA,Million $,Coffee,Foods,2,2024,1611.3
+"Total coffee, tea, and spices",SWITZERLAND,Million $,Coffee,Foods,3,2024,1181.7
+"Total coffee, tea, and spices",MEXICO,Million $,Coffee,Foods,4,2024,927.8
+"Total coffee, tea, and spices",VIETNAM,Million $,Coffee,Foods,5,2024,874.2
+"Total coffee, tea, and spices",CANADA,Million $,Coffee,Foods,6,2024,695.8
+"Total coffee, tea, and spices",INDIA,Million $,Coffee,Foods,7,2024,521.3
+"Total coffee, tea, and spices",REST OF WORLD,Million $,Coffee,Foods,8,2024,4687.7
+"Total coffee, tea, and spices",WORLD,Million $,Coffee,Foods,9,2024,12682.2
+"Total coffee, tea, and spices",WORLD (Quantity),"1,000 mt",Coffee,Foods,10,2024,2297.2
+"Coffee beans, unroasted",BRAZIL,Million $,Coffee,Foods,11,2024,1956.9
+"Coffee beans, unroasted",COLOMBIA,Million $,Coffee,Foods,12,2024,1414.5
+"Coffee beans, unroasted",GUATEMALA,Million $,Coffee,Foods,13,2024,435.4
+"Coffee beans, unroasted",HONDURAS,Million $,Coffee,Foods,14,2024,422.1
+"Coffee beans, unroasted",PERU,Million $,Coffee,Foods,15,2024,367.6
+"Coffee beans, unroasted",VIETNAM,Million $,Coffee,Foods,16,2024,347.2
+"Coffee beans, unroasted",REST OF WORLD,Million $,Coffee,Foods,17,2024,1690.2
+"Coffee beans, unroasted",WORLD,Million $,Coffee,Foods,18,2024,6633.9
+"Coffee beans, unroasted",WORLD (Quantity),"1,000 mt",Coffee,Foods,19,2024,1347.8
+"Coffee, roasted and instant",SWITZERLAND,Million $,Coffee,Foods,20,2024,1177.3
+"Coffee, roasted and instant",CANADA,Million $,Coffee,Foods,21,2024,578.3
+"Coffee, roasted and instant",ITALY,Million $,Coffee,Foods,22,2024,157.9
+"Coffee, roasted and instant",COLOMBIA,Million $,Coffee,Foods,23,2024,68.9
+"Coffee, roasted and instant",MEXICO,Million $,Coffee,Foods,24,2024,44.1
+"Coffee, roasted and instant",REST OF WORLD,Million $,Coffee,Foods,25,2024,168.7
+"Coffee, roasted and instant",WORLD,Million $,Coffee,Foods,26,2024,2195.2
+"Coffee, roasted and instant",WORLD (Quantity),"1,000 mt",Coffee,Foods,27,2024,128.8
+Coffee extracts and preparations,MEXICO,Million $,Coffee,Foods,28,2024,406.8
+Coffee extracts and preparations,BRAZIL,Million $,Coffee,Foods,29,2024,171.4
+Coffee extracts and preparations,COLOMBIA,Million $,Coffee,Foods,30,2024,117.6
+Coffee extracts and preparations,NETHERLANDS,Million $,Coffee,Foods,31,2024,59.3
+Coffee extracts and preparations,REST OF WORLD,Million $,Coffee,Foods,32,2024,272.2
+Coffee extracts and preparations,WORLD,Million $,Coffee,Foods,33,2024,1027.3
+Coffee extracts and preparations,WORLD (Quantity),"1,000 mt",Coffee,Foods,34,2024,92.0
+Tea and mate,JAPAN,Million $,Coffee,Foods,35,2024,114.3
+Tea and mate,CHINA,Million $,Coffee,Foods,36,2024,108.1
+Tea and mate,CANADA,Million $,Coffee,Foods,37,2024,99.8
+Tea and mate,INDIA,Million $,Coffee,Foods,38,2024,88.4
+Tea and mate,REST OF WORLD,Million $,Coffee,Foods,39,2024,384.9
+Tea and mate,WORLD,Million $,Coffee,Foods,40,2024,795.5
+Tea and mate,WORLD (Quantity),"1,000 mt",Coffee,Foods,41,2024,192.3
+Spices,VIETNAM,Million $,Coffee,Foods,42,2024,472.2
+Spices,INDIA,Million $,Coffee,Foods,43,2024,358.7
+Spices,MEXICO,Million $,Coffee,Foods,44,2024,171.4
+Spices,CHINA,Million $,Coffee,Foods,45,2024,170.4
+Spices,INDONESIA,Million $,Coffee,Foods,46,2024,143.1
+Spices,SPAIN,Million $,Coffee,Foods,47,2024,134.3
+Spices,PERU,Million $,Coffee,Foods,48,2024,126.7
+Spices,MADAGASCAR,Million $,Coffee,Foods,49,2024,107.9
+Spices,REST OF WORLD,Million $,Coffee,Foods,50,2024,345.5
+Spices,WORLD,Million $,Coffee,Foods,51,2024,2030.2
+Spices,WORLD (Quantity),"1,000 mt",Coffee,Foods,52,2024,536.2
