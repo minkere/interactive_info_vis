@@ -145,7 +145,15 @@
 
     <!-- Examples -->
     <section id="tab5" class="tab-content" role="tabpanel">
-      <div id="sketch-container-sk5" class="sketch-container"></div>
+      <div id="sketch-container-sk5" class="sketch-container">
+
+        <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+        <tableau-viz id="tableauViz"       
+          src='https://us-east-1.online.tableau.com/t/info474-autumn25/views/INFO474HWK5/Dashboard' toolbar="bottom" hide-tabs>
+        </tableau-viz>
+
+      </div>
     </section>
 
     <section id="tab6" class="tab-content" role="tabpanel">
